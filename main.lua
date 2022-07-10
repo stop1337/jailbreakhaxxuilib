@@ -1,3 +1,5 @@
+if not _G.Title then return end
+if not _G.VersionText then return end
 --[[
 	ModMenu Lib DOCS
 	
